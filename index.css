@@ -8,6 +8,7 @@
     scroll-padding-top: 2rem;
     font-family: "Poppins", sans-serif;
     box-sizing: border-box;
+    
 }
 body{
     box-sizing: border-box;
@@ -20,7 +21,7 @@ a{
 }
 :root {
     --main-color: #033a80;
-    --bg-color: #fad8e2;
+    --bg-color:#C5CAE9;
     --text-color: #0f0c27;
     --hover: hsl(118, 77%, 55%);
     --big-font: 3.2rem;
@@ -145,9 +146,11 @@ header.shadow {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
 }
 
+
 .home-text span {
     font-size: var(--medium-font);
     font-weight: 500;
+    
 }
 
 .home-text h1 {
